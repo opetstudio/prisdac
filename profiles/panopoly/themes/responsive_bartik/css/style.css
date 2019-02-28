@@ -1,4 +1,3 @@
-/* Develop by opetstudio.com */
 
 
 /* ------------------- Overall Specifications ------------- */
@@ -1804,4 +1803,18 @@ a#menu-toggle:after {
   position: absolute !important;
   clip: rect(1px, 1px, 1px, 1px);
   left: 0;
+}
+
+
+
+/* Develop by opetstudio.com */
+.breadcrumb {
+  background: whitesmoke;
+}
+#main {
+  margin-top: 5px;
+}
+
+#logo img {
+  max-height: 80px;
 }
